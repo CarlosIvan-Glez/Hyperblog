@@ -4,3 +4,5 @@ Ivan tiene 25 alos y nacio en Mexico,
 viviendo en todo el mundo 
 
 Esta es su historia
+
+Le gusta comer chetos
